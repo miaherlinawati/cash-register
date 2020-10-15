@@ -1,7 +1,4 @@
-#                                   MIA HERLINAWATI
-#   UAS_PEMROGRAMAN TERSTRUKTUR      191240000905
-#                                  HOME CAKE & DRINK
-
+#this is a cash register program
 
 import datetime
 import time
